@@ -1,6 +1,7 @@
 # NieR Replicant ver1.22 Text Tool
 
-Requires [emil.exe](https://github.com/yretenai/kaine/releases) to extract game assets.
+Requires [emil.exe](https://github.com/yretenai/kaine) to extract game assets.
+
 Text files can be found at: *\snow\text*.
 
 ## Usage:
